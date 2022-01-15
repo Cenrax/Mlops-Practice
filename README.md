@@ -2,7 +2,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![](https://ga4gh.datainsights.cloud/api?repo=MLOps-Lab)](https://github.com/SaschaDittmann/gaforgithub)
 
-# MLOps on Azure
+# MLOps on Azure - Subham
 This repository contains sample code, which is used for a [MLOps](https://en.wikipedia.org/wiki/MLOps) Workshop.
 
 In this workshop various cloud services will be used, e.g. [Azure ML Services](https://azure.microsoft.com/en-us/services/machine-learning-service/) and [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/).
